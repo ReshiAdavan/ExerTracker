@@ -16,7 +16,8 @@ yarn-debug.log*
 yarn-error.log*
 
 # Other
-/node_modules
 mern-exercise-tracker/node_modules
 mern-exercise-tracker/backend/node_modules
 mern-exercise-tracker/backend/.env
+node_modules
+
