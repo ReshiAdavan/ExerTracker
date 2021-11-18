@@ -12,7 +12,7 @@ I eventually decided to monitor my exercise in order to get stronger and more fi
 
 ### Skills
 
-- Programming languages: HTML, Javascript, CSS
+- Programming languages: HTML, JavaScript, CSS
 - Libraries/Frameworks: React.js, Express.js, Node.js
 - Database: MongoDB
 - Other: JSON Web Tokens (JWTs)
